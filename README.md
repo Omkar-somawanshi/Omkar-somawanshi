@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kundan%20Patil&fontColor=F5F5F5&fontSize=80&fontAlign=51&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Building%20intelligent%20experiences%20with%20code%20✨&descAlign=50&descAlignY=93" alt="Kundan Patil Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Omkar%20Somawanshi&fontColor=F5F5F5&fontSize=80&fontAlign=51&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Building%20intelligent%20experiences%20with%20code%20✨&descAlign=50&descAlignY=93" alt="Omkar Somawanshi Banner" />
 
 
 
@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate **full-stack web developer** 🚀
 ## 👨‍💻 About Me
 
 ```javascript
-const Kundan = {
+const Omkar = {
   passion: "Building intelligent, scalable web applications",
   focus: ["MERN Stack", "AI Integration",],
   currentlyLearning: ["PostgreSQL", ],
